@@ -1,54 +1,101 @@
+* {
+  padding: 0;
+  margin : 0;
+}
+
+body {
+  background-color: #fff2b2;
+}
+
+header {
+  background-color: #bee3db;
+  position        : relative;
+  top             : 0;
+  width           : 100%;
+  padding         : 30px 0;
+}
+
 #title {
-  text-align: center;
-  font-size: 70px;
-  color: black;
+  text-align : center;
+  font-size  : 9vh;
+  font-family: 'Press Start 2P', Verdana, Tahoma, sans-serif;
+  background : -webkit-linear-gradient(90deg,
+      #007f5f 35%,
+      #80b918 30%,
+      #f72585 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#colorPalette {
+  background-color: #bee3db;
+  display         : flex;
+  justify-content : center;
 }
 
 .color {
-  border: solid black 1px;
-  width: 40px;
-  height: 40px;
-  display: inline-block;
-  margin: 10px;
+  width        : 40px;
+  height       : 40px;
+  display      : inline-block;
+  margin       : 15px 8px;
+  border-radius: 50%;
 }
 
-#cor1 {
-  background-color: black;
+.selected {
+  width : 50px;
+  height: 50px;
+  border: 2px orangered solid;
 }
 
-#cor2 {
-  background-color: blue;
+#boardConfigs {
+  padding   : 15px 0;
+  text-align: center;
 }
 
-#cor3 {
-  background-color: red;
+.button {
+  padding         : 8px 11px;
+  font-family     : sans-serif;
+  font-weight     : 800;
+  color           : white;
+  background-color: #007f5f;
+  border-radius   : 3px;
+  border          : 1px solid white;
 }
 
-#cor4 {
-  background-color: whitesmoke;
+input {
+  height: 30px;
+  width: 115px;
 }
 
-#clear-board {
-  font-size: 15px;
-  padding: 7px;
-  border-radius: 3px;
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin            : 0;
+}
+
+#pixelsConfig {
+  padding   : 0 0 15px 0;
+  justify-content: center;
   display: flex;
-  margin: auto;
+  align-items:center;
+}
+
+.pixelResizer {
+width: 75px;
+margin-left: 5px;
+margin-right: 5px;
+}
+
+table {
+  margin        : 0 auto;
+  padding-bottom: 15px;
 }
 
 .pixel {
-  width: 40px;
-  height: 40px;
-  border: solid black 1px;
+  width           : 40px;
+  height          : 40px;
+  border          : solid black 1px;
   background-color: white;
-}
-
-#color-palette {
-  display: flex;
-  justify-content: center;
-}
-
-#sizeChange {
-  display: flex;
-  justify-content: center;
+  margin          : 0;
+  padding         : 0;
 }
