@@ -5,6 +5,7 @@ This is my first deployable project. I did it while I was starting my studies on
 <a href="https://pixels-art-project.netlify.app">Pixel Art</a>
   
 ## Screenshot
+![ScreenShot](./images/screenshot.png)
 
 ## My Goals
 * Create color palette with 4 colors, black as first (pre-selected) and three others randomly generated;
