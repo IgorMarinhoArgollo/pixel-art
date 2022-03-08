@@ -26,3 +26,7 @@ This is my first deployable project. I did it while I was starting my studies on
   Just go to the page, configure the size of the board and the size of the pixels, select the color and have fun.
   <br>
   Tip: If you refresh the page the colors will change (except black) and you will be able to color diferent things.
+
+## Development Information
+  Development Commits: 15; <br>
+  Time Spent: 3 days; <br> 
