@@ -1,4 +1,40 @@
 # Pixel Art Project
+<details>
+<summary><h2>:brazil: Português</h2></summary>
+  Esse foi o primeiro projeto que fiz o deploy.Eu o fiz enquanto iniciava os estudos no módulo Fundamentoas de Desenvolvimento Web no curso da Trybe.
+  
+  ## Live Link
+<a href="https://pixels-art-project.netlify.app">Pixel Art</a>
+  
+## Screenshot
+![ScreenShot](./images/screenshot.png)
+
+## Objetivos
+* Criar paleta de cores com 4 cores, sendo preto a primeira (pré-selecionada) e outras três cores randômicas;
+* Criar um board medindo 5x5 unidades;
+* Pintar cada unidade pixel com a cor selecionada ao se clicar;
+* Criar um botão de limpar board;
+* Criar um campo para input para alterar tamanho do board (entre 5 e 50 unidades pixel);
+* Criar um campo de input para mudar o dimensionamento do tamanho dos pixels.
+
+## Tecnologias usadas
+  * HTML
+  * CSS
+  * Javacript
+  * DOM
+  * HTML Semântico
+
+## Como usar
+  Basta acessar a página, configurar o tamanho do board e o tamanho dos pixels, selecionar a cor e de divertir.
+  <br>
+  Dica: Ao se atualizar a página as cores aleatórias serão geradas novamente e serão diferentes.
+
+## Informaççoes de Desenvolvimento
+  Commits de Desenvolvimento: 15; <br>
+  Tempo Gasto: 3 dias; <br> 
+</details>
+
+
 This is my first deployable project. I did it while I was starting my studies on the Fundamentals of Web Development in the Trybe course.
 
 ## Live Link
