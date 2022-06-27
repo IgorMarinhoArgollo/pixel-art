@@ -33,8 +33,8 @@
   
   ## Rodar Localmente
   ### Requisitos:
-   * Node v16
    * Google Chrome
+   * VS Code (com a extensão Live Server) 
     
   ### Clonar no seu computador (via SSH)
   No terminal:
@@ -43,9 +43,7 @@
   
 
   ### Iniciando o projeto localmente
-  No diretório em que o repositório foi clonado, cole o seguinte comando no terminal para iniciar a aplicação localmente:
-   
-      npm start
+  Use a extensão Live Server do VS Code para iniciar o projeto no navegador.
    
 
   ## Informações de Desenvolvimento
@@ -85,8 +83,8 @@
   
 ## Run Locally
   ### Requirements:
-   * Node v16
    * Google Chrome
+   * VS Code (with Live Server Extension)
     
   ### Cloning into your computer (via SSH)
   On terminal:
@@ -94,9 +92,7 @@
       git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
 
   ### Starting project locally
-  On the directory that you have cloned the repository, paste the command on terminal to start the application:
-
-      npm start
+  Open the project on VS Code and use the Live Server Extension to run it.
 
 ## Development Information
   Development Commits: 15; <br>
