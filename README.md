@@ -5,7 +5,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/pixel-art">
   
-  <a href="https://github.com/tgmarinho/pixel-art/commits/master">
+  <a href="https://github.com/igormarinhoargollo/pixel-art/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/pixel-art">
   </a>
     
