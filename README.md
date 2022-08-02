@@ -1,11 +1,11 @@
 # Pixel Art Project
 
-<p align="center">
+<p>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormarinhoargollo/pixel-art?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/pixel-art">
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+  <a href="https://github.com/tgmarinho/pixel-art/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/pixel-art">
   </a>
     
