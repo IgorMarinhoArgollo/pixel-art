@@ -1,5 +1,16 @@
 # Pixel Art Project
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormarinhoargollo/pixel-art?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/pixel-art">
+  
+  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/pixel-art">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
 <details>
   <summary><h2>:brazil: Português</h2></summary>
   <p>Esse foi o primeiro projeto que fiz o deploy.Eu o fiz enquanto iniciava os estudos no módulo Fundamentoas de Desenvolvimento Web no curso da Trybe, para fins educacionais.</p><br>
