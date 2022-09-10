@@ -11,7 +11,7 @@
 
 <details>
   <summary><h2>:brazil: Português</h2></summary>
-  <p>Esse foi o primeiro projeto que fiz o deploy.Eu o fiz enquanto iniciava os estudos no módulo Fundamentoas de Desenvolvimento Web no curso da Trybe, para fins educacionais.</p><br>
+  <p>Esse foi o primeiro projeto que fiz o deploy. Eu o desenvolvi enquanto iniciava os estudos no módulo Fundamentoas de Desenvolvimento Web no curso da Trybe, para fins educacionais.</p><br>
   <p>Esse é um projeto de um quadro com pixels onde é possível se colorir os pixels e se fazer desenhos através das cores. Nele existe uma cor fixa, o preto e ouras 3 cores aleatórias geradas no carregamento da página. Como funcionalidades extras têm-se: ajuste de quantidade de pixels e tamanho dos pixels e botão para limpar o quadro.</p><br>
   
   ## Live Link
@@ -53,11 +53,6 @@
 
   ### Iniciando o projeto localmente
   Use a extensão Live Server do VS Code para iniciar o projeto no navegador.<br><br>
-   
-
-  ## Informações de Desenvolvimento
-  Commits de Desenvolvimento: 15; <br>
-  Tempo Gasto: 3 dias;<br><br>
   
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
@@ -80,7 +75,7 @@
   
   ##  
   ## :us: English
-<p>This is my first deployable project. I did it while I was starting my studies on the Fundamentals of Web Development in the Trybe course for educational purposes.</p><br>
+<p>This is my first deployable project. I developed it while I was starting my studies on the Fundamentals of Web Development in the Trybe course for educational purposes.</p><br>
 <p>This is a project of a board with pixels where it is possible to color the pixels and make drawings using the colors. There is a fixed color(black) and other 3 random colors generated on page load. As extra features there are: adjustment of the amount of pixels and their sizes and button to clear the frame.</p><br>
 
 ## Live Link
@@ -121,10 +116,6 @@
 
   ### Starting project locally
   Open the project on VS Code and use the Live Server Extension to run it.<br><br>
-
-## Development Information
-  Development Commits: 15; <br>
-  Time Spent: 3 days; <br><br>
   
 ## How to contribute on the project
   1. Make a **fork** of the project;
